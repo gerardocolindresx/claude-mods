@@ -1,0 +1,8 @@
+{
+  "name": "brief",
+  "version": "0.1.0",
+  "description": "Turns a long, messy message into a clear brief (goal, context, ask, constraints, open questions) in your own language before Claude reads it",
+  "author": { "name": "Gerardo Colindres" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

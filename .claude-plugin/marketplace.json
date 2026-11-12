@@ -1,0 +1,5 @@
+{
+  "name": "claude-mod-brief",
+  "owner": { "name": "Gerardo Colindres" },
+  "plugins": [{ "name": "brief", "source": "./" }]
+}
