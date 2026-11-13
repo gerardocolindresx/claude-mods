@@ -1,5 +1,14 @@
 {
-  "name": "claude-mod-brief",
-  "owner": { "name": "Gerardo Colindres" },
-  "plugins": [{ "name": "brief", "source": "./" }]
+  "name": "claude-mods",
+  "owner": {
+    "name": "Gerardo Colindres"
+  },
+  "description": "Claude Code mods for growth, marketing and go-to-market work, by Gerardo Colindres",
+  "plugins": [
+    {
+      "name": "brief",
+      "source": "./plugins/brief",
+      "description": "Turns a long, messy message into a clear brief in your own language before Claude reads it"
+    }
+  ]
 }
